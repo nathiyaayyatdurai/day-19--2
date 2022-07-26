@@ -1,0 +1,28 @@
+@media only screen and (min-device-width: 600px) {
+  .column1 {
+    width: 60% !important;
+  }
+  .column2 {
+    width: 100% !important;
+  }
+}
+
+body {
+  background-color: beige !important;
+}
+
+.column1 {
+  width: 30% !important;
+}
+
+.column2 {
+  width: 70% !important;
+}
+
+th {
+  background-color: lightblue !important;
+}
+
+td {
+  word-wrap: break-word;
+}
